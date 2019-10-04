@@ -2,6 +2,15 @@
     <string name="app_name">ToDoS</string>
     <string name="action_categories">Categories</string>
     <string name="action_delete_all_todos">Delete Todos</string>
+    <string name="action_create_test_data">Insert Test Data</string>
+    <string name="Done">Done</string>
+    <string name="action_delete_todos">Delete item</string>
+    <string name="insert_new_category">New category</string>
+    <string name="newCategory">Add new</string>
+    <string name="save_category">Save category</string>
+    <string name="delete_category">Delete category</string>
+    <string name="delete_categories_dialog_title">Delete confirmation</string>
+    <string name="action_delete_todo">Delete todo task</string>
 
     <string-array name="categories_array">
         <item>Home</item>

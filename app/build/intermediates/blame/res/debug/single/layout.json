@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\category_list_item.xml",
+        "source": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\src\\main\\res\\layout\\category_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category.xml",
+        "source": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_todo.xml",
+        "source": "C:\\Users\\Zuzi\\AndroidStudioProjects\\Todos\\app\\src\\main\\res\\layout\\activity_todo.xml"
+    }
+]

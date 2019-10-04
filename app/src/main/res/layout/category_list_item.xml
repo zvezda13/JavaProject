@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="category"
+            type="com.example.todos.model.Category" />
+        <!--type- e imeto na clasa v package:model -->
+    </data>
+
+<RelativeLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:gravity="center_vertical"
@@ -21,7 +29,9 @@
         android:layout_margin="4dp"
         android:layout_toEndOf="@+id/imageCatIcon"
         android:layout_toRightOf="@+id/imageCatIcon"
-        android:text="Dummy Text"
+        android:text="@{category.description}"
+        android:tag="@{category.catId}"
         android:textSize="18sp" />
 
 </RelativeLayout>
+</layout>

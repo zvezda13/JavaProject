@@ -12,4 +12,9 @@
         android:orderInCategory="101"
         android:title="@string/action_delete_all_todos"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_create_test_data"
+        android:orderInCategory="102"
+        android:title="@string/action_create_test_data"
+        app:showAsAction="never" />
 </menu>
